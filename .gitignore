@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and API keys
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Generated exports
+exports/
+
+# Streamlit
+.streamlit/secrets.toml
